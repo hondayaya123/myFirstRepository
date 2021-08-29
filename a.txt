@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 fjsaiof
+=======
+iao
+bbb
+>>>>>>> dee8ec3f69c06f27e1a03337c2b12f1aa7be4a71
